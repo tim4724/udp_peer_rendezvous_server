@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="udprelay:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/udprelay_jar</output-path>
+    <root id="archive" name="udprelay.jar">
+      <element id="module-output" name="udp_peer_rendezvous_server" />
+    </root>
+  </artifact>
+</component>
