@@ -3,7 +3,8 @@ import java.net.InetSocketAddress;
 import java.net.UnknownHostException;
 
 /**
- * Created by Tim on 08.02.2017.
+ * build a byte array with all necessary information.
+ * read info from byte array
  */
 class Payload {
     static final int totalLen = 28;
